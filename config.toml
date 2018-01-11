@@ -1,17 +1,36 @@
 baseURL = "http://andrew.cobaugh.io/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Andrew Cobaugh"
-theme = "gohugo-theme-ananke"
+theme = "dimension.local"
+enableRobotsTXT = true
+disableKinds=["RSS"]
 
+# for publishing to github pages
 publishDir = "docs"
 
 [params]
-	favicon = ""
-	description = ""
+	description = "IT Systems Engineer @ <a href=\"http://www.psu.edu\">Penn State</a>"
+	copyright = "2017-2018"
 
-	background_color_class = "bg-black"
-	featured_image = "/images/background.jpg"
+[[params.social]]
+	medium = "Github"
+	icon = "github"
+	link = "https://github.com/acobaugh"
 
-	github = "https://github.com/acobaugh"
-	instagram = "https://instagram.com/andrew.cobaugh"
-	linkedin = "https://www.linkedin.com/in/andrew-cobaugh"
+[[params.social]]
+	medium = "Linkedin"
+	icon = "linkedin"
+	link = "https://www.linkedin.com/in/andrew-cobaugh"
+
+[[params.social]]
+	medium = "Keybase"
+	icon = "key"
+	link = "https://keybase.io/andrewcobaugh"
+
+[[params.social]]
+	medium = "Email"
+	icon = "envelope-o"
+	link = "mailto:andrew.cobaugh@gmail.com"
+
+
