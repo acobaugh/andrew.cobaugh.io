@@ -18,8 +18,8 @@
             </div>
             <nav>
               <ul>
-                {{ range .Site.Menus.main }}
-                  <li>{{ if .URL }}<a href="{{ .URL }}"{{else}}<a href="#{{ .Identifier }}"{{end}}>{{ if .Name }}{{ .Name }}{{ else }}{{ .Identifier }}{{ end }}</a></li>
+                {{ range .Data.Pages.ByWeight }}
+		    <li>{{ if isset .Params "link" }}<a href="{{ index .Params "link" }}"{{else}}<a href="#{{ .File.TranslationBaseName }}"{{end}}>{{ if .GetParam "menuname" }}{{ .GetParam "menuname" }}{{ else }}{{ .Title }}{{ end }}</a></li>
                 {{ end }}
               </ul>
             </nav>
@@ -27,7 +27,7 @@
 
         <!-- Main -->
           <div id="main">
-            {{ range .Site.Menus.main }}
+            {{ range .Data.Pages }}
               {{ .Render "onepagestyle" }}
             {{ end }}
           </div>
