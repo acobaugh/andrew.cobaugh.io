@@ -6,6 +6,8 @@ theme = "dimension.local"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+googleAnalytics = "UA-112422997-1"
+
 # for publishing to github pages
 publishDir = "docs"
 
