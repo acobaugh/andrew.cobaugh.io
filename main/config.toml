@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 googleAnalytics = "UA-112422997-1"
 
 # for publishing to github pages
-publishDir = "docs"
+publishDir = "../docs"
 
 [params]
 	description = "IT Systems Engineer @ <a href=\"http://www.psu.edu\">Penn State</a>"

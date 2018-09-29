@@ -1,0 +1,73 @@
+baseURL = "/"
+relativeURLs = true
+publishDir = "../docs/lab"
+
+languageCode = "en-us"
+title = "Andy Cobaugh Labs"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+enableGitInfo = true
+
+[params]
+	# General information
+	author = "Andy Cobaugh"
+	description = "Cobaugh Lab"
+	copyright = "Andrew Cobaugh"
+
+	# Repository
+	provider = ""
+	repo_url = ""
+
+	version = ""
+	logo = "images/logo.jpg"
+	favicon = ""
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "grey"
+    	accent  = "teal"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+[social]
+	email = "acobaugh-at-gmail.com"
+
+[[menu.main]]
+	name   = "High Voltage"
+	url    = "hv/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Tools"
+	url    = "#"
+	weight = 20
+
+[[menu.main]]
+	name   = "Restoration"
+	url    = "#"
+	weight = 30
+
+[[menu.main]]
+	name   = "Code"
+	url    = "https://github.com/acobaugh"
+	weight = 40
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
