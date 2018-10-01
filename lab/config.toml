@@ -7,7 +7,7 @@ languageCode = "en-us"
 title = "Andy Cobaugh Labs"
 theme = "hugo-material-docs"
 # Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-112422997-1"
 
 enableGitInfo = true
 
