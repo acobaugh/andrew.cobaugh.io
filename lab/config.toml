@@ -1,4 +1,4 @@
-baseURL = "http://andrew.cobaugh.io/lab/"
+baseURL = "https://andrew.cobaugh.io/lab/"
 relativeURLs = true
 canonifyURLs = true
 publishDir = "../docs/lab"
