@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tesla Coils on Andy Cobaugh Labs</title>
+    <link>http://andrew.cobaugh.io/lab/tesla/</link>
+    <description>Recent content in Tesla Coils on Andy Cobaugh Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://andrew.cobaugh.io/lab/tesla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4PR-1000A VTTC</title>
+      <link>http://andrew.cobaugh.io/lab/tesla/4pr1000a-vttc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrew.cobaugh.io/lab/tesla/4pr1000a-vttc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4in SGTC</title>
+      <link>http://andrew.cobaugh.io/lab/tesla/4inch-sg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrew.cobaugh.io/lab/tesla/4inch-sg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8&amp;quote; DRSSTC</title>
+      <link>http://andrew.cobaugh.io/lab/tesla/8inch-drsstc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrew.cobaugh.io/lab/tesla/8inch-drsstc/</guid>
+      <description>8 inch drsstc</description>
+    </item>
+    
+    <item>
+      <title>8&amp;quote; SGTC</title>
+      <link>http://andrew.cobaugh.io/lab/tesla/8inch-sg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrew.cobaugh.io/lab/tesla/8inch-sg/</guid>
+      <description>8 inch spark gap coil</description>
+    </item>
+    
+    <item>
+      <title>Mini coil</title>
+      <link>http://andrew.cobaugh.io/lab/tesla/mini-sg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://andrew.cobaugh.io/lab/tesla/mini-sg/</guid>
+      <description>mini coil</description>
+    </item>
+    
+  </channel>
+</rss>

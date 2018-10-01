@@ -17,7 +17,6 @@
 	{{ partial "header" . }}
 </header>
 
-
 <main class="main">
 	<div class="drawer">
 		{{ partial "drawer" . }}
@@ -26,6 +25,7 @@
 	<article class="article">
 		<div class="wrapper">
 			<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
+
 			{{ .Content }}
 
 			<aside class="copyright" role="note">

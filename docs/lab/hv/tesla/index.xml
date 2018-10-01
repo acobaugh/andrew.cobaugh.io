@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Andy Cobaugh Labs</title>
-    <link>http://andrew.cobaugh.io/lab/</link>
-    <description>Recent content in Home on Andy Cobaugh Labs</description>
+    <title>Tesla Coils on Andy Cobaugh Labs</title>
+    <link>http://andrew.cobaugh.io/lab/hv/tesla/</link>
+    <description>Recent content in Tesla Coils on Andy Cobaugh Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://andrew.cobaugh.io/lab/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://andrew.cobaugh.io/lab/hv/tesla/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

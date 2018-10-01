@@ -3,17 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>http://andrew.cobaugh.io/lab/restoration/</loc>
+    <lastmod>2018-09-28T23:34:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://andrew.cobaugh.io/lab/hv/tesla/4inch-sgtc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/hv/tesla/4pr1000a-vttc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/hv/tesla/8inch-drsstc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/hv/tesla/8inch-sgtc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://andrew.cobaugh.io/lab/hv/</loc>
+    <lastmod>2018-09-28T23:34:10-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/hv/tesla/mini-sgtc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/hv/tesla/</loc>
+  </url>
+  
+  <url>
+    <loc>http://andrew.cobaugh.io/lab/tools/</loc>
+    <lastmod>2018-09-28T23:34:10-04:00</lastmod>
   </url>
   
 </urlset>

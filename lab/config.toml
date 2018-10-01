@@ -1,15 +1,19 @@
-baseURL = "/"
+baseURL = "http://andrew.cobaugh.io/lab"
 relativeURLs = true
+canonifyURLs = true
 publishDir = "../docs/lab"
 
 languageCode = "en-us"
 title = "Andy Cobaugh Labs"
 theme = "hugo-material-docs"
-metadataformat = "yaml"
-canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
+
 enableGitInfo = true
+
+refLinksNotFoundURL = "404.html"
+
+SectionPagesMenu = "main"
 
 [params]
 	# General information
@@ -23,12 +27,12 @@ enableGitInfo = true
 
 	version = ""
 	logo = "images/logo.jpg"
-	favicon = ""
+	favicon = "/lab/favicon.ico"
 
 	permalink = "#"
 
 	# Custom assets
-	custom_css = []
+	custom_css = [ "css/custom.css" ]
 	custom_js  = []
 
 	# Syntax highlighting theme
@@ -47,27 +51,37 @@ enableGitInfo = true
 
 [[menu.main]]
 	name   = "High Voltage"
+	identifier = "hv"
 	url    = "hv/"
 	weight = 10
 
 [[menu.main]]
 	name   = "Tools"
+	identifier = "tools"
 	url    = "#"
 	weight = 20
 
 [[menu.main]]
 	name   = "Restoration"
+	identifier = "restoration"
+	url    = "#"
+	weight = 30
+
+[[menu.main]]
+	name   = "Motorcycles"
+	identifier = "moto"
 	url    = "#"
 	weight = 30
 
 [[menu.main]]
 	name   = "Code"
+	identifier = "code"
 	url    = "https://github.com/acobaugh"
 	weight = 40
 
 
-[blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
+#[blackfriday]
+#	smartypants	= true
+#	fractions = true
+#	smartDashes = true
+#	plainIDAnchors = true
