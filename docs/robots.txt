@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://andrew.cobaugh.io//sitemap.xml
