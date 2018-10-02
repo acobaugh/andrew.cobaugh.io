@@ -11,6 +11,7 @@ title = "Tesla Coils"
 * [8" SGTC](8inch-sgtc)
 * [4" SGTC](4inch-sgtc)
 * [Mini SGTC](mini-sgtc)
+* [Micro SGTC](micro-sgtc)
 
 ### DRSSTC
 * [8" DRSSTC](8inch-drsstc)

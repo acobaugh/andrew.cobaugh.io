@@ -58,19 +58,19 @@ SectionPagesMenu = "main"
 [[menu.main]]
 	name   = "Tools"
 	identifier = "tools"
-	url    = "#"
+	url    = "tools/"
 	weight = 20
 
 [[menu.main]]
 	name   = "Restoration"
 	identifier = "restoration"
-	url    = "#"
+	url    = "resto/"
 	weight = 30
 
 [[menu.main]]
 	name   = "Motorcycles"
 	identifier = "moto"
-	url    = "#"
+	url    = "moto/"
 	weight = 30
 
 [[menu.main]]
