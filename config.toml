@@ -12,7 +12,7 @@ googleAnalytics = "UA-112422997-1"
 publishDir = "public"
 
 [params]
-	description = "IT Systems Engineer @ <a href=\"http://www.psu.edu\">Penn State</a>"
+	description = "Software Engineer @ <a href=\"http://www.psu.edu\">Penn State</a>"
 	copyright = "2017-2019"
 
 [[params.social]]
