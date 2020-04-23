@@ -13,7 +13,7 @@ publishDir = "public"
 
 [params]
 	description = "Software Engineer @ <a href=\"http://www.psu.edu\">Penn State</a>"
-	copyright = "2017-2019"
+	copyright = "2017-2020"
 
 [[params.social]]
 	medium = "Github"
