@@ -12,8 +12,8 @@ googleAnalytics = "UA-112422997-1"
 publishDir = "public"
 
 [params]
-	description = "Software Engineer @ <a href=\"http://www.psu.edu\">Penn State</a>"
-	copyright = "2017-2020"
+	description = "Senior DevOps Engineer @ <a href=\"http://updater.com\">Updater</a>"
+	copyright = "2017-2022"
 
 [[params.social]]
 	medium = "Github"
