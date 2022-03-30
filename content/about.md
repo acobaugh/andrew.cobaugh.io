@@ -4,7 +4,7 @@ draft: false
 weight: 1
 ---
 <div style="float: right; padding: 5px">
-![Me](/images/me.png)
+{{< figure src="/images/me.png" alt="Me" >}}
 </div>
 
 I've spent the last ~15 years as a System Administrator, HPC Admin, System Designer, Software Engineer, and most recently a DevOps Engineer currently working for [Updater](https://updater.com). Previously I was at [Penn State](https://www.psu.edu).

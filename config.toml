@@ -34,3 +34,6 @@ publishDir = "public"
 	medium = "Email"
 	icon = "envelope-o"
 	link = "mailto:andrew.cobaugh@gmail.com"
+
+[markup.goldmark.renderer]
+unsafe= true
